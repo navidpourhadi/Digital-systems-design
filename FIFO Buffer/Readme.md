@@ -8,30 +8,29 @@ In this directory , I have implemented FIFO-Buffer based on VHDL language. This 
 
 ### RTL regfile
 
-![RTL_regfile]()
+![RTL_regfile](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/rtl_regfile.JPG)
 
 
 ### RTL controller
 
-![RTL_controller]()
+![RTL_controller](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/rtl_controller.JPG)
 
 
 
 ### RTL FIFO_Buffer
 
-![RTL_FIFO]()
+![RTL_FIFO](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/rtl.JPG)
 
 
 
 ### Postmapping
 
-![Postmapping]()
+![Postmapping](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/postmapping.JPG)
 
 ### Simulation
 
-![Simulation]()
+![Simulation](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/simulation.JPG)
 
 
 
-![morse code translator](https://upload.wikimedia.org/wikipedia/commons/5/5a/EB1911_Telegraph_-_Morse_alphabets_-_international_code.jpg)
 
