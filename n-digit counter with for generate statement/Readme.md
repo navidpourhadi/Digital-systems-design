@@ -18,7 +18,7 @@ In this directory , I have implemented n-digit counter based on VHDL language. T
 
 ### Postmapping
 
-![Postmapping](https://github.com/navidpourhadi/Digital-systems-design/blob/main/n-digit%20counter%20with%20for%20generate%20statement/images/postmapping.JPG)
+![Postmapping](https://github.com/navidpourhadi/Digital-systems-design/blob/main/n-digit%20counter%20with%20for%20generate%20statement/images/postmap.JPG)
 
 ### Simulation
 
