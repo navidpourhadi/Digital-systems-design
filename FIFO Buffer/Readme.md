@@ -3,7 +3,7 @@ In this directory , I have implemented FIFO-Buffer based on VHDL language. This 
 
 ### Implementation report
 
-![report]()
+![report](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/report.JPG)
 
 
 ### RTL regfile
@@ -14,6 +14,14 @@ In this directory , I have implemented FIFO-Buffer based on VHDL language. This 
 ### RTL controller
 
 ![RTL_controller]()
+
+
+
+### RTL FIFO_Buffer
+
+![RTL_FIFO]()
+
+
 
 ### Postmapping
 
