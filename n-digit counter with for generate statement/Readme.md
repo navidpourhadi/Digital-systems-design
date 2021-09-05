@@ -6,30 +6,23 @@ In this directory , I have implemented n-digit counter based on VHDL language. T
 ![report](https://github.com/navidpourhadi/Digital-systems-design/blob/main/n-digit%20counter%20with%20for%20generate%20statement/images/report.JPG)
 
 
-### RTL regfile
+### RTL Decimal counter
 
-![RTL_regfile](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/rtl_regfile.JPG)
-
-
-### RTL controller
-
-![RTL_controller](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/rtl_controller.JPG)
+![RTL_decimal](https://github.com/navidpourhadi/Digital-systems-design/blob/main/n-digit%20counter%20with%20for%20generate%20statement/images/rtl_decimal.JPG)
 
 
+### RTL n-digit
 
-### RTL FIFO_Buffer
-
-![RTL_FIFO](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/rtl.JPG)
-
+![RTL_n_digit](https://github.com/navidpourhadi/Digital-systems-design/blob/main/n-digit%20counter%20with%20for%20generate%20statement/images/rtl.JPG)
 
 
 ### Postmapping
 
-![Postmapping](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/postmapping.JPG)
+![Postmapping](https://github.com/navidpourhadi/Digital-systems-design/blob/main/n-digit%20counter%20with%20for%20generate%20statement/images/postmapping.JPG)
 
 ### Simulation
 
-![Simulation](https://github.com/navidpourhadi/Digital-systems-design/blob/main/FIFO%20Buffer/images/simulation.JPG)
+![Simulation](https://github.com/navidpourhadi/Digital-systems-design/blob/main/n-digit%20counter%20with%20for%20generate%20statement/images/simulation.JPG)
 
 
 
